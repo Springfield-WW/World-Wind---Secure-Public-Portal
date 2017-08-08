@@ -1,0 +1,2 @@
+# World-Wind---Secure-Public-Portal
+Deploying a full open source stack, a rigorous hardening process and secure set of spatial ETL (extract, transform and load) connectors, the goal is open data through secure services. Solution supports community planning, design, construction and environmental protection. Future plans extend affordable public safety and medical services to underprivileged sectors of the community. The aim is an affordable open blueprint to develop and sustain basic public information services in an increasingly hostile cyber environment.
